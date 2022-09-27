@@ -1,4 +1,4 @@
-# AI LA Open Innovation Challenge, Fass 2022
+# AI LA Open Innovation Challenge, Fall 2022
 
 Hello!
 
